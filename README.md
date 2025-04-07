@@ -102,13 +102,22 @@ it-lab-projects/
 │   ├── client01-login-as-jsmith.png
 │   └── [additional screenshots]
 │
-├── README.md  ← Project overview (this file)
+├── automation/
+|   ├── Configure-DHCP.ps1
+|   ├── Create-LabUsers.ps1
+|   ├── Install-ADDS.ps1
+|   ├── README.md
+|   ├── lab-config.ps1
+|   └── lab-settings.json
+│
+|
+├── README.md  ← Project overview (this file) 
 </pre>
 
 ### 🗃️ How to Use This Structure
 
 - Each major section of the lab has its **own folder** with relevant scripts and documentation.
-- All **PowerShell automation scripts** are inside `scripts/` folders for clarity.
+- All **PowerShell automation scripts** are inside `automation/` folders for clarity.
 - **Screenshots** are placed in a central folder for easy referencing from Markdown.
 - This layout makes it easy for employers or instructors to navigate your project.
 
