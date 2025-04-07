@@ -127,7 +127,6 @@ it-lab-projects/
 - Each major section of the lab has its **own folder** with relevant scripts and documentation.
 - All **PowerShell automation scripts** are inside `automation/` folders for clarity.
 - **Screenshots** are placed in a central folder for easy referencing from Markdown.
-- This layout makes it easy for employers or instructors to navigate your project.
 
 ---
 
