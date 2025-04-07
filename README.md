@@ -95,17 +95,17 @@ Server Hostname: DC01
 
 Client Hostname: CLIENT01
 
-Client Local Username: e.trudel
+Client Local Username: *******
 
-Client Password: Tru3l@b!0425
+Client Password: *************
 
-Domain Admin Password (DSRM/Admin): Comp@nyDC2025!
+Domain Admin Password (DSRM/Admin): *******
 
 Domain User Example:
 
 Username: jsmith
 
-Password: LabUser2025!
+Password: *******
 
 ✅ Final Status
 
