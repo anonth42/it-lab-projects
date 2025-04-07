@@ -17,7 +17,7 @@ Windows 11 Pro
 
 Networking Mode:
 
-Adapter 1: Internal Network (LabNet)
+Adapter 1: Internal Network (intnet)
 
 Adapter 2: NAT (optional for internet access)
 
@@ -109,6 +109,25 @@ Password: LabUser2025!
 
 ✅ Final Status
 
+Windows Server 2022 (Core) installed and promoted to Domain Controller (DC01)
+
+Active Directory Domain Services (AD DS) fully functional (company.local)
+
+DNS configured with forward and reverse zones
+
+DHCP role installed, authorized, and handing out correct leases and DNS
+
+Windows 11 Pro (CLIENT01) successfully joined to domain
+
+Domain user login verified (company\jsmith)
+
+PowerShell scripts created to automate user + OU creation
+
+Network migrated to Internal Network mode to eliminate VirtualBox DHCP conflicts
+
+Lab issues resolved and documented as real-world troubleshooting examples
+
+Project folder organized for GitHub upload
 
 
 📝 Future Improvements
