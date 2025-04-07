@@ -1,6 +1,7 @@
 # 🧪 VirtualBox IT Lab Project Notes
 
 ## 🔧 Lab Setup Overview
+![Lab Overview](diagrams/IT Lab Overview.png)
 
 - **Hypervisor**: VirtualBox  
 - **Host OS**: Windows 10 Home  
@@ -14,6 +15,7 @@
 ---
 
 ## 📦 Lab Goals
+![Project Timeline](diagrams/project-timeline.png)
 
 - Practice Windows Server domain management  
 - Implement DHCP, DNS, Active Directory, GPOs  
@@ -23,6 +25,7 @@
 ---
 
 ## 📌 Setbacks & Solutions Summary
+![DNS Reverse Lookup](screenshots/dns-reverse-lookup.png)
 
 | # | Setback                           | Resolution                                               |
 |---|-----------------------------------|----------------------------------------------------------|
@@ -54,6 +57,7 @@
 ---
 
 ## ✅ Final Status
+![DHCP Confirmed](screenshots/client01-dhcp-domain-confirmation.png)
 
 - [x] **Windows Server 2022 (Core)** installed and promoted to Domain Controller (DC01)  
 - [x] **Active Directory Domain Services (AD DS)** fully functional (`company.local`)  
@@ -110,6 +114,10 @@ it-lab-projects/
 |   ├── lab-config.ps1
 |   └── lab-settings.json
 │
+├── diagrams/
+|   ├── IT-Lab-Overview.png
+|   └── project-timeline.png
+|   
 |
 ├── README.md  ← Project overview (this file) 
 </pre>
