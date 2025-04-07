@@ -1,0 +1,10 @@
+{
+  "DomainName": "company.local",
+  "DomainNetBIOS": "COMPANY",
+  "AdminPassword": "Comp@nyDC2025!",
+  "UserPassword": "LabUser2025!",
+  "DNSServer": "192.168.56.10",
+  "ScopeStartIP": "192.168.56.100",
+  "ScopeEndIP": "192.168.56.150",
+  "RouterIP": "192.168.56.1"
+}
