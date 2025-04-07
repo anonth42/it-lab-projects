@@ -7,7 +7,7 @@ Windows Server Core AD, DNS, DHCP &amp; PowerShell Automation Lab
 
 Hypervisor: VirtualBox
 
-Host OS: [to be filled in by user]
+Host OS: Windows 10 Home
 
 Primary VMs:
 
