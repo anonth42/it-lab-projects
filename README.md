@@ -1,7 +1,7 @@
 # 🧪 VirtualBox IT Lab Project Notes
 
 ## 🔧 Lab Setup Overview
-![Lab Overview](diagrams/IT-Lab-Overview.png)
+![Lab Overview](diagrams/ITLabOverview.png)
 
 - **Hypervisor**: VirtualBox  
 - **Host OS**: Windows 10 Home  
